@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Final Project </title>
+    <style>
+      body{ background-color:rgb(211,211,211);}
+    </style>
+    
+     </head>
+  <body> 
+    <img src="myBannerjpg.jpg">
+    
+    <table> 
+      <tr>
+    <td> <a href="index.html"> <img src="homebuttonR.png"> </a> </td>
+      <td> <a href="javascripts.html"> <img src="javascripts_button.png"> </a> </td>
+        <td> <a href="about.html"> <img src="AboutMe.png"> </a> </td></tr> </table>
+    <h1>My Javascript</h1>
+    <p> This is my javascript page where i will be uploading most of my CSC 106 projects and assignments.
+ 
+      <a href="https://www.khanacademy.org/computer-programming/gailloux_bitmoji/5685682028625920">Bitmoji</a>
+      
+      </p>
+    Back to <a href="index.html">home page </a>
+         </body>
+</html> 
